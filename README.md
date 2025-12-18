@@ -5,7 +5,7 @@ _(Perbandingan Metode Machine Learning dan Deep Learning untuk Klasifikasi Citra
 ## 👤 Informasi
 
 - **Nama:** [MUHAMMAD HIKMAL AKBAR REZA ARDYANSYAH]
-- **Repo:** [...]
+- **Repo:** [https://github.com/rezaardyansyah/projectUAS.git]
 - **Video:** [...]
 
 ---
